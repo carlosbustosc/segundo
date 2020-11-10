@@ -1,0 +1,888 @@
+@import url("https://p.typekit.net/p.css?s=1&k=xyl3hlr&ht=tk&f=17154.17155.17158.17159.42835.42837.42839.42840.43022.43025.43027.43028.43032.43035.43038.43039&a=7176273&app=typekit&e=css");
+
+@font-face {
+    font-family: "quatro";
+    src: url("https://use.typekit.net/af/25b75a/00000000000000003b9afc06/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/25b75a/00000000000000003b9afc06/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/25b75a/00000000000000003b9afc06/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "quatro";
+    src: url("https://use.typekit.net/af/af9254/00000000000000003b9afc07/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"), url("https://use.typekit.net/af/af9254/00000000000000003b9afc07/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"), url("https://use.typekit.net/af/af9254/00000000000000003b9afc07/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "quatro";
+    src: url("https://use.typekit.net/af/e2ef1f/00000000000000003b9afc01/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/e2ef1f/00000000000000003b9afc01/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/e2ef1f/00000000000000003b9afc01/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "quatro";
+    src: url("https://use.typekit.net/af/0b0502/00000000000000003b9afc00/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/0b0502/00000000000000003b9afc00/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/0b0502/00000000000000003b9afc00/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-b";
+    src: url("https://use.typekit.net/af/aa23b5/00000000000000003b9b356d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/aa23b5/00000000000000003b9b356d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/aa23b5/00000000000000003b9b356d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-b";
+    src: url("https://use.typekit.net/af/dc13c6/00000000000000003b9b356f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/dc13c6/00000000000000003b9b356f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/dc13c6/00000000000000003b9b356f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "circe-slab-b-narrow";
+    src: url("https://use.typekit.net/af/4fc200/00000000000000003b9b3571/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/4fc200/00000000000000003b9b3571/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/4fc200/00000000000000003b9b3571/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-b-narrow";
+    src: url("https://use.typekit.net/af/0040f9/00000000000000003b9b3572/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/0040f9/00000000000000003b9b3572/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/0040f9/00000000000000003b9b3572/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "circe-slab-a";
+    src: url("https://use.typekit.net/af/44ed31/00000000000000003b9b3652/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/44ed31/00000000000000003b9b3652/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/44ed31/00000000000000003b9b3652/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-a";
+    src: url("https://use.typekit.net/af/5d4b26/00000000000000003b9b3655/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/5d4b26/00000000000000003b9b3655/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/5d4b26/00000000000000003b9b3655/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "circe-slab-a-narrow";
+    src: url("https://use.typekit.net/af/e1d24e/00000000000000003b9b3657/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/e1d24e/00000000000000003b9b3657/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/e1d24e/00000000000000003b9b3657/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-a-narrow";
+    src: url("https://use.typekit.net/af/6e5eb0/00000000000000003b9b3658/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/6e5eb0/00000000000000003b9b3658/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/6e5eb0/00000000000000003b9b3658/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "circe-slab-c";
+    src: url("https://use.typekit.net/af/6d0db7/00000000000000003b9b365c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/6d0db7/00000000000000003b9b365c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/6d0db7/00000000000000003b9b365c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-c";
+    src: url("https://use.typekit.net/af/b8bfad/00000000000000003b9b365f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/b8bfad/00000000000000003b9b365f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/b8bfad/00000000000000003b9b365f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "circe-slab-c-narrow";
+    src: url("https://use.typekit.net/af/f1b634/00000000000000003b9b3662/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/f1b634/00000000000000003b9b3662/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/f1b634/00000000000000003b9b3662/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "circe-slab-c-narrow";
+    src: url("https://use.typekit.net/af/bd7bc2/00000000000000003b9b3663/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/bd7bc2/00000000000000003b9b3663/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/bd7bc2/00000000000000003b9b3663/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.tk-quatro {
+    font-family: "quatro", sans-serif;
+}
+
+.introduccion {
+    display: none;
+}
+
+.tk-circe-slab-b {
+    font-family: "circe-slab-b", serif;
+}
+
+.tk-circe-slab-b-narrow {
+    font-family: "circe-slab-b-narrow", serif;
+}
+
+.tk-circe-slab-a {
+    font-family: "circe-slab-a", serif;
+}
+
+.tk-circe-slab-a-narrow {
+    font-family: "circe-slab-a-narrow", serif;
+}
+
+.tk-circe-slab-c {
+    font-family: "circe-slab-c", serif;
+}
+
+.tk-circe-slab-c-narrow {
+    font-family: "circe-slab-c-narrow", serif;
+}
+
+
+.especialesModulares .contentApertura.fondoOscuro {
+    background-image: url('https://www.eltiempo.com/infografias/2020/09/secuelas-del-covid/images/apertura-desktop.png?6834');
+    background-repeat: no-repeat;
+    height: 960px;
+    min-height: auto;
+    max-height: initial;
+    background-position: center;
+}
+
+.especialesModulares .contentApertura.fondoOscuro .contenidoEspeciales .title_principal_modular {
+    display: none;
+}
+
+.especialesModulares .contentApertura.fondoOscuro .contenidoEspeciales .contenedor_lead_modular {
+    display: none;
+}
+
+.especialesModulares .contentApertura.fondoOscuro .contenidoEspeciales .sociales_modulares {
+    top: 571px;
+    left: 40%;
+}
+.especialesModulares .contentApertura .contenidoEspeciales .texto_redes2 {
+    margin: unset;
+}
+
+.especialesModulares .contentApertura .contenidoEspeciales .texto_redes2:before {
+    bottom: 3px;
+    background: #2D97A8;
+}
+
+.especialesModulares .Galeria {
+    background: unset;
+}
+
+.especialesModulares .galeria {
+    padding: 10px 0 10px;
+    margin: auto;
+}
+
+.especialesModulares .galeria .slide {
+    text-align: center;
+}
+
+.especialesModulares .galeria .slide .credito {
+    display: none;
+}
+
+.especialesModulares .galeria .slide .counter {
+    display: none;
+}
+
+
+
+.especialesModulares .galeria .bx-wrapper,
+.especialesModulares .galeria .slider {
+    background: unset;
+}
+
+.especialesModulares .galeria .slide:after {
+    display: none;
+}
+
+.foto-home-galeriaEspeciales {
+    width: 436px;
+    height: 454px;
+    background-color: #dddddd;
+    
+}
+
+/*
+.especialesModulares .bx-wrapper img {
+    filter: grayscale(100%);
+}
+*/
+
+.especialesModulares .titular {
+    width: 45%;
+    margin: 13px auto 28px auto;
+    font-family: "quatro";
+    font-size: 30px;
+    color: #83C7D7;
+    border-bottom: 1px solid #072C35;
+    font-family: quatro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 34px;
+    padding-top: 0px;
+    padding-bottom: 22px;
+}
+
+
+.especialesModulares .content_grid .content_grid_margin .contenedor_principal_lead {
+    /*display: none;*/
+}
+
+.especialesModulares .lead:first-child {
+    margin-bottom: 20px;
+    font-size: 17px;
+    width: 40%;
+    margin-top: 0px;
+}
+
+.especialesModulares .descripcionArticulo {
+    padding: unset;
+}
+
+.especialesModulares .descripcionArticulo::before {
+    display: none;
+}
+
+.especialesModulares .descripcionArticulo p {
+    font-family: "quatro";
+    font-size: 18px;
+    line-height: 26px;
+    color: #464646;
+    font-weight: 300;
+}
+
+.contenedor_imagen_z2 {
+    max-width: 1141px;
+    width: 100%;
+    display: table;
+    margin: 90px auto 0px auto;
+}
+
+.btn_masNoticiasEspeciales:before,
+.btn_masNoticiasEspeciales:after {
+    display: none;
+}
+
+
+.especialesModulares .descripcionArticulo .boton {
+    width: unset;
+    position: relative;
+}
+
+.especialesModulares .descripcionArticulo .boton::before {
+    content: "";
+    width: 25px;
+    height: 25px;
+    top: 12px;
+    position: absolute;
+    left: 182px;
+    background-image: url('https://www.eltiempo.com/infografias/2020/09/secuelas-del-covid/images/flecha-uci.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.especialesModulares .descripcionArticulo .boton a {
+    position: relative;
+    color: #83C7D7;
+    background: unset;
+    border-bottom: 1px solid #83C7D7;
+    margin-bottom: 100px;
+    font-family: quatro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    width: 258px;
+}
+
+.especialesModulares .descripcionArticulo .boton a::before {
+    content: "";
+    position: absolute;
+    left: -30px;
+    top: 0px;
+    width: 0;
+    height: 0;
+    border-left: 14px solid #2D97A8;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+}
+
+
+.content_grid .content_grid_margin {
+    width: 100%;
+    max-width: unset;
+    padding: unset;
+}
+
+.especialesModulares .galeria .bx-wrapper .bx-viewport {
+    height: 454px !important;
+}
+
+
+.viz-1 {
+    max-width: 890px;
+    margin: auto;
+    display: block;
+    position: relative;
+    left: -100px;
+}
+
+.container_col {
+    overflow: visible;
+    width: 1200px;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+
+/*----------------------------------------------------------*/
+
+
+.titulo-historias {
+    font-family: neue-aachen-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #072C35;
+    font-size: 39px;
+    margin: 114px auto 44px auto !important;
+    width: 1057px;
+    text-align: left;
+}
+
+/*
+.titulo-historias::before {
+    position: absolute;
+    left: 0px;
+    top: -5px;
+    content: "";
+    width: 36px;
+    height: 2px;
+    background-color: #2D97A8;
+}
+*/
+
+
+.fallecidos {
+    width: 100%;
+    margin: 50px auto;
+}
+
+.fallecidos p {
+    margin: auto;
+    font-weight: 300;
+}
+.fallecidos .fallecidos-apertura .inicioz3 {
+    position: relative;
+    left: -100px;
+    width: 890px;
+    margin: 28px auto !important;
+}
+
+
+.fallecidos .fallecidos-apertura {
+    position: relative;
+    left: -100px;
+    width: 890px;
+    margin: 24px auto !important;
+}
+
+
+.fallecidos .fallecidos-apertura .cont-inicial {
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura .introduccion {
+    font-family: "quatro";
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 26px;
+    color: #6D6D6D;
+}
+
+.fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura .introduccion::first-letter {
+    font-family: "quatro";
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 26px;
+    color: #6D6D6D;
+}
+
+.fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura .lead-introduccion {
+    display: table;
+    margin: 20px 0px 97px;
+    padding-bottom: 4px;
+    font-family: "quatro";
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 26px;
+    color: #072C35;
+    border-bottom: 1px solid #072C35;
+}
+
+
+.fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura {
+    position: relative;
+    display: inline-block;
+    width: 434px;
+    font-family: "quatro";
+    font-size: 18px;
+    line-height: 26px;
+    color: #444444;
+    vertical-align: bottom;
+}
+
+/*
+.fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura::before {
+    content: "";
+    position: absolute;
+    top: -11px;
+    left: -20px;
+    width: 1px;
+    height: 100%;
+    background-color: #2D97A8;
+}
+
+*/
+
+.fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura .bloque::first-letter {
+    font-size: 58px;
+    line-height: 26px;
+    color: #83C7D7;
+    font-family: neue-aachen-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* .fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura::after{
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 225px;
+    width: 54px;
+    height: 2px;
+    background-color: #2D97A8;
+}
+ */
+
+.fallecidos .fallecidos-apertura .cont-inicial .img-apertura {
+    display: inline-block;
+    vertical-align: bottom;
+    position: relative;
+    width: 436px;
+    height: 534px;
+}
+
+.fallecidos .fallecidos-apertura .cont-inicial .img-apertura .img-apertura-elem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.fallecidos-apertura.inicioz3 {
+    top: 50px;
+}
+
+.fallecidos .fallecidos-apertura .nota-apertura {
+    position: absolute;
+    top: 0px;
+    right: -220px;
+    width: 188px;
+    font-family: "quatro";
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 18px;
+    color: #707070;
+}
+
+.fallecidos .fallecidos-apertura .nota-apertura::before {
+    content: "";
+    position: absolute;
+    left: -20px;
+    top: 0px;
+    width: 0;
+    height: 0;
+    border-left: 14px solid #2D97A8;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+}
+
+.fallecidos .fallecidos-apertura .nota-apertura::after {
+    position: absolute;
+    bottom: -6px;
+    right: 68px;
+    content: "";
+    width: 120px;
+    height: 2px;
+    background-color: #2D97A8;
+}
+
+.fallecidos .fallecidos-apertura .texto-apertura {
+    margin-bottom: 25px;
+    font-family: "quatro";
+    font-size: 18px;
+    line-height: 26px;
+    color: #444444;
+    font-weight: 300;
+}
+
+.fallecidos .contenedor-infografia {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.creditos {
+    width: 100%;
+    background-color: #072C35;
+}
+
+
+body.body-creditos {
+    margin: 0px;
+}
+
+.creditos .cont-creditos {
+    width: 1200px;
+    margin: auto;
+    padding: 104px 0px;
+}
+
+.creditos .cont-creditos span {
+    font-family: neue-aachen-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    display: block;
+    margin-bottom: 50px;
+    font-size: 45px;
+    line-height: 26px;
+    color: #83C7D7;
+}
+
+.creditos .cont-creditos span::before {
+    position: absolute;
+    left: -27px;
+    top: -30px;
+    content: "";
+    width: 128px;
+    height: 1px;
+    background-color: #83C7D7;
+    bottom: 27px;
+}
+
+.creditos .cont-creditos .linea_vertical_xs2::before {
+    position: absolute;
+    left: -28px;
+    top: -106px;
+    content: "";
+    width: 1px;
+    height: 410px;
+    background-color: #83C7D7;
+    bottom: 27px;
+}
+
+.creditos .cont-creditos p {
+    margin: unset;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(255 255 255 / 82%);
+    font-family: quatro, sans-serif;
+    font-weight: 10;
+    font-style: normal;
+}
+
+.creditos .cont-creditos p b {
+    color: #FFFFFF;
+    font-family: quatro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+
+
+/*----------estilos nuevos---------------*/
+
+.video_1 {
+    max-width: 1090px;
+    width: 100%;
+    display: table;
+    margin: 50px auto;
+}
+
+.subtitulo_contenido_z2 {
+    font-family: neue-aachen-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #072C35;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.info_34{
+    width: 100%;
+}
+
+
+
+.fallecidos-apertura.ajustar_borde.controlar_linea_zx {
+    position: relative;
+    left: -100px;
+    width: 894px;
+    margin: 50px auto !important;
+    padding: 0px 0px 8px 40px;
+}
+
+hr.linea_divisora {
+    width: 164px;
+    height: 1px;
+    background-color: #072C35;
+    border: none;
+    margin-left: 20px;
+    position: absolute;
+    bottom: 0px;
+    left: -21px;
+}
+
+.fallecidos-apertura.controlar_linea_zx {
+    position: relative;
+}
+
+p.nota-apertura {
+    padding: 20px 20px 0px 0px;
+    border-top: 1px solid #173D46;
+    border-right: 1px solid #173D46;
+}
+
+.fallecidos .fallecidos-apertura .nota-apertura::before{
+
+    display: none;
+}
+.fallecidos .fallecidos-apertura .nota-apertura::after{
+
+    display: none;
+}
+
+/*----------estilos nuevos---------------*/
+
+
+
+
+.contenedor_principal_contenido {
+
+    position: relative;
+}
+
+.contenedor_principal_contenido::before {
+    position: absolute;
+    left: -38px;
+    content: "";
+    width: 1px;
+    height: 348px;
+    background-color: #072C35;
+    bottom: 18px;
+}
+
+.contenedor_principal_contenido::after {
+    position: absolute;
+    left: -38px;
+    content: "";
+    width: 140px;
+    height: 1px;
+    background-color: #072C35;
+    bottom: 18px;
+}
+
+.fallecidos-apertura.ajustar_borde.controlar_linea_zx::before {
+    position: absolute;
+    left: -1px;
+    content: "";
+    width: 1px;
+    height: 413px;
+    background-color: #072C35;
+    bottom: 1px;
+}
+
+
+.video_1 iframe {
+    height: 613px;
+}
+
+.ver-mobile{
+    display: none;
+}
+
+.contenedor_imagen_recuperado_covid {
+    width: 100%;
+    display: table;
+}
+.nombre_persona_recuperada_x3 {
+    position: absolute;
+    width: 100%;
+    background-color: #072C35;
+    color: #83C7D7;
+    top: 509px;
+    z-index: 101;
+    display: table;
+    font-family: quatro, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 20px;
+    padding: 7px 9px 9px 9px;
+}
+
+
+.foto-home-galeriaEspeciales img {
+    width: 100%;
+    height: 454px;
+}
+
+.bx-controls-direction {
+    display: none;
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+.especialesModulares .bx-wrapper img {
+ 
+    filter: inherit !important;
+
+}
+    .especialesModulares .contentApertura.fondoOscuro {
+        background-image: url('https://www.eltiempo.com/infografias/2020/09/secuelas-del-covid/images/apertura-desktop.png?6834');
+        background-repeat: no-repeat;
+        height: 480px;
+        min-height: auto;
+        max-height: initial;
+        background-position: center;
+    }
+
+    .especialesModulares .Galeria {
+        margin-top: unset;
+    }
+
+    .foto-home-galeriaEspeciales {
+        width: 100%;
+        height: 302px;
+        background-color: #dddddd;
+    }
+
+    .especialesModulares .galeria .slide:after {
+        display: none;
+    }
+
+    .content_grid.especialesModulares div {
+        overflow: visible;
+    }
+
+    .especialesModulares .bx-wrapper img {
+        filter: grayscale(100%);
+    }
+
+    .especialesModulares .galeria .bx-wrapper .bx-viewport {
+        height: 302px !important;
+    }
+
+    .especialesModulares .titular {
+        width: fit-content;
+        margin: 20px auto 30px;
+        padding-top: unset;
+        font-family: "quatro";
+        font-size: 30px;
+        color: #505050;
+        border-bottom: 1px solid #2D97A8;
+    }
+
+    /*----------------------------------------------------------*/
+
+    .body-fallecidos {
+        margin: unset;
+        width: 100%;
+    }
+
+    .fallecidos .fallecidos-apertura {
+        width: calc(100% - 40px);
+        margin: 0px 20px;
+    }
+
+    .fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura {
+        display: block;
+        width: auto;
+        margin: 0px 0px 0px 20px;
+        line-height: 32px;
+    }
+
+    .fallecidos .fallecidos-apertura .cont-inicial .parrafo-apertura::first-letter {
+        line-height: 32px;
+    }
+
+    .fallecidos .fallecidos-apertura .cont-inicial .img-apertura {
+        display: block;
+        width: 100%;
+        position: absolute;
+    }
+
+    .fallecidos .fallecidos-apertura .nota-apertura {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: unset;
+        margin: 20px 20px 20px 30px;
+    }
+
+    .fallecidos .fallecidos-apertura .texto-apertura {
+        margin: 0px;
+    }
+
+    .body-creditos {
+        width: 100%;
+        margin: unset;
+    }
+
+    .creditos .cont-creditos {
+        width: unset;
+        padding: 80px 20px 100px;
+    }
+
+    .creditos .cont-creditos span {
+        font-size: 30px;
+    }
+
+    .creditos .cont-creditos span::before {
+        top: -12px;
+        content: "";
+        width: 22px;
+    }
+
+}
+
+
